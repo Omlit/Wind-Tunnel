@@ -8,3 +8,5 @@ main
 .vscode/
 build/
 
+#ignore solidworks temporary files
+*~$*.*
